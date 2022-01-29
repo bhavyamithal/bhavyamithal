@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhavyamithal
 - 👀 I’m interested in exploring the diff fields in CS and technology. 
-- 🌱 I’m currently learning C and C++
+- 🌱 I’m currently learning DSA and Web Dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bm820@snu.edu.in
 
