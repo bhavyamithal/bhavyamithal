@@ -31,10 +31,6 @@ I am open to collaboration and discussions related to Python, data science, AI, 
 
 Email: your-email@example.com
 
-LinkedIn: Your LinkedIn Profile
-
-Twitter: @YourTwitterHandle
-
 Feel free to reach out, and let's connect and learn from each other!
 
 
