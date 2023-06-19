@@ -29,7 +29,7 @@ I aim to continuously update this repository with new projects, experiments, and
 # Contact
 I am open to collaboration and discussions related to Python, data science, AI, ML, and deep learning. If you have any questions, suggestions, or just want to connect, you can reach me through the following channels:
 
-Email: your-email@example.com
+Email: bm820@snu.edu.in
 
 Feel free to reach out, and let's connect and learn from each other!
 
