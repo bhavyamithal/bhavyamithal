@@ -13,11 +13,11 @@ I am a dedicated and enthusiastic programmer with a keen interest in Python, dat
 # Interests
 Here are some of the key areas that fascinate me:
 
-- Python: I have a strong command of the Python programming language and enjoy leveraging its versatility and extensive libraries for various projects.
-- Data Science: I am passionate about working with data and employing analytical techniques to gain insights, make predictions, and solve complex problems.
-- Artificial Intelligence: AI has opened up incredible possibilities, and I find the concept of creating intelligent systems fascinating. I'm particularly interested in the intersection of AI with other domains.
-- Machine Learning: The ability to build models that can learn from data and make predictions is truly remarkable. I am continually exploring different ML algorithms and techniques.
-- Deep Learning: Deep learning, a subset of ML, has revolutionized the field with its ability to analyze vast amounts of data and extract meaningful patterns. I enjoy working with neural networks and exploring their applications.
+- Python
+- Data Science
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
 
 # Projects
 In this repository, you will find various projects that demonstrate my skills and knowledge in Python, data science, AI, ML, and deep learning. Some of the projects you may find include:
