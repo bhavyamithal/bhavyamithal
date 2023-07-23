@@ -31,6 +31,7 @@ I aim to continuously update this repository with new projects, experiments, and
 I am open to collaboration and discussions related to Python, data science, AI, ML, and deep learning. If you have any questions, suggestions, or just want to connect, you can reach me through the following channels:
 
 Email: bm820@snu.edu.in
+
 [LinkedIn](https://www.linkedin.com/in/bhavya-mithal-156557230/)
 
 Feel free to reach out, and let's connect and learn from each other!
